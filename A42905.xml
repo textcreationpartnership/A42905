@@ -1,0 +1,621 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short account of the Bank of England</title>
+            <author>Godfrey, Michael, d. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42905</idno>
+            <idno type="STC">Wing G925</idno>
+            <idno type="STC">ESTC R220317</idno>
+            <idno type="EEBO-CITATION">99831735</idno>
+            <idno type="PROQUEST">99831735</idno>
+            <idno type="VID">36202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2126:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short account of the Bank of England</title>
+                  <author>Godfrey, Michael, d. 1695.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Whitlock near Stationers Hall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Michael Godfrey.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Company Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bank of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:36202:1"/>
+            <head>A SHORT ACCOUNT
+Of the Bank of
+ENGLAND.</head>
+            <p>CONSIDERING the multitude and variety of Opinions, which are received
+and entertained, concerning <hi>the Bank,</hi> it may be thought <hi>a Service to the
+Publick</hi> to give the following Account of it; whereby 'twill appear to the
+World, That <hi>the Bank,</hi> notwithſtanding <hi>all the Cavils,</hi> which the Wit,
+Labour, and Malice <hi>of its Opponents</hi> have raiſed, is one of the beſt Eſtabliſhments that ever
+was made for the <hi>Good of the Kingdom.</hi> For how plauſible ſoever their Objections may
+ſeem, it's manifeſt they proceed in ſome <hi>from Averſion to the Government,</hi> in others
+<hi>from Prejudice, falſe Inſinuations,</hi> or <hi>miſtaken Notions,</hi> but in moſt <hi>from Self-Intereſt.</hi>
+            </p>
+            <p>
+               <hi>The Bank</hi> is a Society conſiſting of about 1300 Perſons, who having Subſcribed
+1200000 <hi>l.</hi> purſuant to <hi>an Act of Parliament,</hi> are Incorporated by Vertue thereof,
+by the Name of <hi>the Governour and Company of the Bank of</hi> England, and have a Fund of
+100000 <hi>l. per annum</hi> granted them thereby, <hi>redeemable after 11 Years,</hi> upon <hi>One Years
+Notice;</hi> which 1200000 <hi>l.</hi> they have <hi>paid into the Exchequer,</hi> by ſuch Payments as <hi>the
+Publick</hi> Occaſions have required, and <hi>moſt of it</hi> long before the Money could have been
+demanded.</p>
+            <p>The Subſcription to <hi>the Bank</hi> were made by vertue of a Commiſſion under <hi>the Great
+Seal of</hi> England, grounded upon the ſaid <hi>Act of Parliament,</hi> of which Publick Notice
+was given, and <hi>the Commiſſioners</hi> were appointed to take <hi>all ſuch voluntary Subſcriptions</hi>
+as ſhould be made on or before <hi>the firſt day of August laſt,</hi> by any Perſon or Perſons, <hi>Na<g ref="char:EOLhyphen"/>tives</hi>
+or <hi>Foreigners, Bodies Politick or Corporate,</hi> towards the raiſing the ſaid 1200000 <hi>l.</hi>
+and there was <hi>a Proviſo in the ſaid <hi>Act,</hi>
+               </hi> that if 600000 <hi>l.</hi> or more of the ſaid 1200000 <hi>l.</hi>
+ſhould not be Subſcribed on or before the firſt day of <hi>August</hi> then next coming, that
+the Power of making <hi>a Corporation</hi> ſhould ceaſe, and the Mony <hi>be paid into the Exchequer</hi>
+by the reſpective Subſcribers and Contributors. And notwithſtanding <hi>all the Endeavours
+of its Adverſaries,</hi> to the great Aſtoniſhment <hi>as well of the Friends, as of the Enemies of the
+Bank,</hi> the whole 1200000 <hi>l.</hi> was Subſcribed <hi>in 10 days time,</hi> though if the Subſcriptions
+had not amounted to 600000 <hi>l.</hi> the Subſcribes would have had but <hi>a bad Bargain,</hi> and
+ſuch a one as no Body would have taken off their hands for 20 <hi>per cent.</hi> loſs of their <hi>Prin<g ref="char:EOLhyphen"/>cipal,</hi>
+and yet they would have received 8 <hi>l. per cent. per annum for their Money,</hi> as they do
+now, nor would the 1200000 <hi>l.</hi> have been any thing near Subſcribed; <hi>but upon the Pro<g ref="char:EOLhyphen"/>ſpect</hi>
+of their being Incorporated to be <hi>the Bank</hi> of <hi>England.</hi>
+            </p>
+            <p>It's obſervable, That the Promoters of <hi>the Bank</hi> have propoſed no Advantage
+thereby to themſelves above any of the other Subſcribers, all the Profit being only <hi>pro
+Rato,</hi> according to their Stock; and though it cannot be imagined but that they intended
+to be largely concerned, yet it is ſo ſetled, that thoſe who have but 500 <hi>l.</hi> have <hi>One
+Vote,</hi> and thoſe who have <hi>never ſo much</hi> can have <hi>no more;</hi> and the Directors have no
+Salary fixt, for their Pains and Attendance, but ſubmit themſelves wholly to what <hi>a
+General Court</hi> will think fit to allow them; and any 9 Members having each 500 <hi>l.</hi> Stock,
+may call <hi>a General Court,</hi> and turn out <hi>the Governour, Deputy-Governour,</hi> and all, or any
+of <hi>the Directors,</hi> and chooſe others in their places. Which are Proviſions ſo wiſe, and
+effectual to prevent Fraud in ſome, to the prejudice of the reſt, that it hardly leaves
+room for any doubt of that nature.</p>
+            <p>I ſhall not attempt to enumerate all the Advantages which <hi>the Nation</hi> will receive by
+<hi>the Bank,</hi> they will beſt appear by <hi>the Practice,</hi> however I will mention <hi>ſome few,</hi>
+which alone are ſufficient to recommend it, <hi>viz.</hi>
+            </p>
+            <p>1. <hi>The Bank,</hi> beſides the raiſing 1200000 <hi>l.</hi> towards <hi>the Charge of the War,</hi> cheaper
+than it could otherwiſe have been done, (and like the other Publick Funds, <hi>tying the Peo<g ref="char:EOLhyphen"/>ple
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:36202:2"/>
+                  <pb n="2" facs="tcp:36202:3"/>
+faſter to the Government</hi>) will infallibly <hi>lower the Intereſt of Money,</hi> as well on <hi>Publick
+as Private</hi> Securities, which all other Funds have advanced, and which hath been raiſed
+to <hi>an Exorbitant Rate,</hi> as to the Publick, <hi>by thoſe who have made uſe of its Neceſſities,</hi> and
+are now angry at <hi>the Bank,</hi> becauſe that will reduce it. And <hi>the lowering of Intereſt,</hi>
+beſides the Encouragement it will be <hi>to Induſtry and Improvements,</hi> will by <hi>a natural con<g ref="char:EOLhyphen"/>ſequence</hi>
+raiſe the Value of Land, and encreaſe Trade, <hi>both which depend upon it;</hi> but it
+cannot be expected that <hi>Land ſhould riſe much</hi> whilſt ſuch high Taxes continue upon it,
+and whilſt there are ſo great advantages to be made <hi>by lending Money to the Publick.</hi>
+            </p>
+            <p>2. <hi>The Bank</hi> gives Money for <hi>Tallies on Funds,</hi> having a Credit of Loan by <hi>Act of
+Parliament,</hi> and which are payable in 2 years time, for the growing Intereſt only,
+<hi>without any other Allowance,</hi> on which there was uſed to be paid for the Change, as
+much or more than the Publick Intereſt: For even <hi>on the Land Tax,</hi> which is counted
+the beſt of all the Funds, there has been frequently given on <hi>Tallies</hi> payable in 3 or
+4 Months time 1 <hi>l.</hi> 1 ½, 1 ¾, and 2 <hi>per cent.</hi> premio, <hi>over and above the Publick Intereſt,</hi>
+and <hi>Tallys</hi> on ſome Funds, on which <hi>but 18 Months ago</hi> there was 25 <hi>l.</hi> and 30 <hi>per cent.</hi>
+given <hi>over and above Publick Intereſt,</hi> are now taken by <hi>the Bank</hi> for nothing, and inſtead
+of allowing Mony <hi>to change them,</hi> there is now Money given <hi>to procure them;</hi> ſo that
+<hi>Tallys</hi> are become better than Money, becauſe there is 7 or 8 <hi>per cent. per annum.</hi> bene<g ref="char:EOLhyphen"/>fit
+whilſt they are kept; and they are paid by <hi>the Bank <hi>upon demand,</hi>
+               </hi> to all thoſe who
+deſire to have Money for them, which is <hi>in effect</hi> ſo much Quick Stock which <hi>the Bank</hi>
+has already increaſed to <hi>the Nation,</hi> beſides what it will farther add by its own Credit.</p>
+            <p>Thus by a regular courſe, and without any violence, <hi>the Bank</hi> has made <hi>Tallys</hi>
+currant in Payment, which is what has been ſo long wiſht for, but could not have been
+effected without <hi>the Bank,</hi> (although there had been a Law to compel it,) and this,
+has given <hi>ſuch a Reputation to all Tallys,</hi> even thoſe which are the <hi>moſt remote,</hi> that they
+are now currantly taken by private perſons at 6, 8, 10 and 15 <hi>l. per cent. leſs allowance,</hi>
+than what was given but ſome few Months before <hi>the Bank</hi> was Eſtabliſht, <hi>all which
+Loſſes on Tallys was paid by the Publick,</hi> for it cannot be ſuppos'd but thoſe who are to
+allow 15 or 20 <hi>per cent.</hi> for diſcount of their Tallys, <hi>make proviſion accordingly</hi> in the
+Price they are to have for their Commodities.</p>
+            <p>3. <hi>The Bank <hi>will likewiſe facilitate the future Supplies,</hi>
+               </hi> by making the Funds which
+are to be given, <hi>more uſeful and ready</hi> to anſwer <hi>the Publick Occaſions.</hi> and upon eaſier
+terms than what has been done <hi>during the War:</hi> for it's ſaid, they will Lend Money <hi>on
+the Land Tax</hi> at 6 <hi>per cent. per annum,</hi> nay ſome ſay at 5 <hi>per cent. per annum;</hi> which will
+<hi>ſave the Nation</hi> a great Sum of Money in Intereſt as well as what was uſually paid for
+Gratuities and other Charges to procure Loans, a Method that ſome of the Oppoſers of
+the Bank have been well acquainted with.</p>
+            <p>4. It will likewiſe ſave the Nation 30 or 40000 <hi>l. per annum, in remitting the Publick
+Moneys;</hi> and if <hi>the Bank</hi> had been ſettled in the beginning of this War, <hi>the Kingdom
+might have ſaved</hi> already at leaſt <hi>a Million and half, if not Two Millions</hi> by it, beſides what
+will be ſaved for the future on the Prices of Commodities, Loſs on Tallys, Publick Remit<g ref="char:EOLhyphen"/>tances,
+Exceſſive Intereſt, and other Exorbitant Allowances, which <hi>the Publick</hi> has for<g ref="char:EOLhyphen"/>merly
+paid for Money, (to ſay nothing of the Advantage which might have been gain<g ref="char:EOLhyphen"/>ed
+on the Enemy, by having <hi>more early and regular Proviſions</hi> made for our Fleets and
+Armies;) for the ſame Money raiſed and paid by the Subject, may and will have a quite
+different effect <hi>in carrying on the War,</hi> by the ſpeedy or dilatory payments of it; and
+it is evident that the ſame Money has done much greater Service to the Publick <hi>in
+the Bank,</hi> than it could have done by being <hi>in private Hands.</hi> and that the Extra<g ref="char:EOLhyphen"/>vagant
+<hi>Riſe of Intereſt</hi> was not altogether occaſioned by the Scarcity of Mony, but has
+been much increaſed <hi>by the Art and Contrivance</hi> of thoſe who have mediated between
+the Borrowers and the Lenders, and the Encouragement that the Monyed Men have had
+<hi>to keep back their Mony</hi> in hopes of a greater advantage, which they have generally ob<g ref="char:EOLhyphen"/>tained
+by reaſon <hi>of the Neceſſities of the Publick:</hi> But now <hi>the Bank</hi> is Eſtabliſht, and
+that all who want Mony, and have Securities, know where to Apply themſelves and be
+Supplied, <hi>there cannot be ſuch Advantages made on the Publick or Private Mens Neceſſities</hi>
+for the future.</p>
+            <p>5. The more Credit <hi>the Bank</hi> has, and the more Money is lodged in it, the more
+<pb n="3" facs="tcp:36202:3"/>
+it will <hi>leſſen Intereſt,</hi> for want of Occaſions to improve it; and thoſe who Lodge their
+Mony <hi>in the Bank</hi> have it as much at their diſpoſal as if it were in the hands of
+<hi>the Goldſmiths,</hi> or in their own <hi>Caſh-Cheſt,</hi> and there is a greater Value than the Money
+which is depoſited in <hi>the Bank,</hi> that circulates <hi>by their Credit</hi> as much as if it were ſtir<g ref="char:EOLhyphen"/>ring
+<hi>in Specie:</hi> And <hi>the Bank-Bills</hi> ſerve already <hi>for Returns and Exchange</hi> to and from
+the remoteſt parts of <hi>the Kingdom,</hi> and will in a little time do the like in <hi>Foreign Parts,</hi>
+which will <hi>leſſen</hi> the <hi>exporting of Bullion</hi> for the paying and maintaning our Armies abroad
+<hi>during this War;</hi> and if the Bulk of the Mony of the Nation which has been Lodged with
+the Goldſmiths, had been depoſited in <hi>the Bank</hi> 4 or 5 years paſt, it had prevented its
+being ſo <hi>Scandalouſly Clipt,</hi> which one day or other muſt coſt the Nation <hi>a Million and half,
+or Two Millions</hi> to Repair it.</p>
+            <p>6. Thoſe who are concerned in <hi>the Bank</hi> cannot fail to <hi>leſſen the Intereſt of Mony,</hi>
+for its their own Intereſt to do it, elſe they cannot employ it; and their Fund being
+ſetled at 8 <hi>l. per cent. per annum,</hi> the lower they bring all other <hi>Intereſt,</hi> they make the
+<hi>Stock of the Bank</hi> the more Valuable; and it muſt be allowed, That it is the <hi>only
+Fund</hi> that ever was ſetled in <hi>England</hi> which has <hi>leſſened the Interest of Mony.</hi> And its
+very obſervable, That any reſolution that the Concerned in <hi>the Bank</hi> have taken to
+be more ſerviceable in accommodating the <hi>Publick</hi> or <hi>private mens Occaſions,</hi> has always
+given it a <hi>farther Reputation,</hi> and increaſed its <hi>Value;</hi> and the more they ſerve <hi>the In<g ref="char:EOLhyphen"/>terest
+of the Nation,</hi> ſo much the more they ſerve their own, they being under this hap<g ref="char:EOLhyphen"/>py
+circumſtance, <hi>That they cannot do good to themſelves but by doing good to others.</hi>
+            </p>
+            <p>7. The Nation pays for the Annuities 14 <hi>l. per cent. per annum</hi> for 99 years, and for
+the Lottery 14 <hi>per cent. per an.</hi> for 16 years, beſides about one Tenth part which was Ex<g ref="char:EOLhyphen"/>pended
+in Charges, the Funds of <hi>Wine, Vinegar</hi> and <hi>Tabacco, Eaſt-India Goods, Joint-Stocks,
+Paper and Parchment,</hi> and <hi>New Impoſitions,</hi> are all at 8 <hi>l. per cent. per annum</hi> as
+well as <hi>the Bank;</hi> and yet there has been given from 20 to 30 <hi>l. per cent.</hi> Loſs on Tallys
+upon ſeveral of theſe Funds, beſides the <hi>Publick Intereſt;</hi> the like has been done on the
+remote parts of the 2/3 <hi>Exciſe</hi> and 3/4 <hi>Customs</hi> before <hi>the Bank</hi> was Eſtabliſht, and
+thereby the Nation <hi>has Paid</hi> 12, 14, 16, 18 and 20 <hi>per cent. per annum Interest for Mony,</hi>
+which if it had continued muſt have <hi>Ruined the Kingdom;</hi> but now that they who have
+made theſe <hi>Advantages</hi> by the Publick are prevented of the like for the future, they will
+be more ready to <hi>Lend Mony</hi> on <hi>Private Security,</hi> or to <hi>Purchaſe Lands,</hi> for want of
+thoſe <hi>Occaſions</hi> to Improve their <hi>Mony</hi> to ſo much better <hi>Advantage.</hi>
+            </p>
+            <p>8. Its a matter which is <hi>very ſurpriſing and without any Example,</hi> that after <hi>the Nation</hi>
+has been Six Years Engaged in ſuch <hi>a Chargeable War,</hi> and has been at near <hi>Thirty Millions
+Expence,</hi> and ſuch quantities of <hi>Bullion have been Exported,</hi> beſides the Loſs of <hi>ſeveral
+Millions</hi> which <hi>the Enemy has taken;</hi> that after all this, inſtead of <hi>the Interest</hi> of Mony
+<hi>riſing,</hi> (as has been uſual in all Wars) there ſhould now be ſuch <hi>a fall of Interest,</hi> which
+muſt be acknowledged to be wholly owing to <hi>the Bank,</hi> and that it could not have been
+effected without it; for till <hi>the Bank</hi> Exerted it ſelf, <hi>the Intereſt of Money was riſing
+apace,</hi> and would have continued ſo, and have come to a ſtrange Exorbitancy e'r this, if
+<hi>the Bank</hi> had not been Eſtabliſht.</p>
+            <p>9. <hi>The Bank</hi> being thus uſeful to <hi>the Publick,</hi> extends it ſelf likewiſe to accommo<g ref="char:EOLhyphen"/>date
+<hi>all Private Mens Occaſions;</hi> for they lend Mony <hi>on Mortgages</hi> and <hi>real Securities</hi>
+at 5 <hi>l. per cent. per annum,</hi> and their very Publiſhing they would do it, has given a Check
+to the <hi>raiſing the Intereſt</hi> on them from 5 to 6 <hi>l. per cent. per an.</hi> as was attempted; and if the
+<hi>Titles of Lands were made more ſecure,</hi> Money would be Lent thereon at 4 <hi>l. per cent. per an.</hi>
+and in time of Peace at 3 <hi>l. per cent. per an. Foreign Bills of Exchange</hi> are diſcounted at
+4 ½ <hi>per cent. per annum,</hi> and <hi>In-land Bills</hi> and <hi>Notes</hi> for Debts at 6 <hi>per cent. per an.</hi> and
+thoſe who keep their <hi>Caſh</hi> in <hi>the Bank,</hi> have the one diſcounted at 3 <hi>per cent. per an.</hi> and
+the other at 4 ½ <hi>per cent. per an.</hi> And Mony is lent <hi>on Pawns of Commodities</hi> which are not
+periſhable, at 5 <hi>l. per cent. per annum,</hi> for which ſome <hi>in their Neceſſities</hi> have paid
+more than double as much, to the Ruine of many great Traders.</p>
+            <p>Money is likewiſe Lent on the <hi>Fund</hi> of the <hi>Orphans</hi> of the City of <hi>London,</hi> at
+5 <hi>per cent. per an.</hi> which will hinder ſeveral, who are neceſſi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, from being forced to
+Sell their Intereſt at Under-rates.</p>
+            <p>And its ſaid they have agreed to ſet up a <hi>Lumbard</hi> to lend Mony on ſmall Pawns, <hi>for the
+Relief of the Poor,</hi> at <hi>One Penny per Month</hi> for 20 Shillings, for which they are now forced to
+<pb n="4" facs="tcp:36202:4"/>
+pay <hi>Six Pence</hi> or <hi>Twelve Pence</hi> every Week: And its probable, if <hi>the Bank</hi> was not re<g ref="char:EOLhyphen"/>ſtrained
+by <hi>Act of Parliament,</hi> they might take into Conſideration the Exchanging
+<hi>Seamens Tickets</hi> for Mony, for a very ſmall Allowance, for which they have often times
+been forced to pay 7 or 8 ſhillings in the Pound.</p>
+            <p>10. <hi>The Bank</hi> will reduce the Intereſt of Mony in <hi>England</hi> to 3 <hi>per cent. per an.</hi> in a
+few years, <hi>without any Law</hi> to enforce it, in like manner as it is in all <hi>other Countreys</hi> where
+Banks are eſtabliſht, whereby the Trade of the <hi>Nation</hi> may be driven upon more <hi>equal
+Terms</hi> with the reſt of <hi>Our Neighbours,</hi> where Mony is to be had at ſo much lower Rates
+than what we in <hi>England</hi> have hitherto paid: And as <hi>the leſſening the Intereſt of Mony will
+Infallibly raiſe the Value of Land,</hi> it had been worth while for the Nobility and Gentry who
+are the Proprietors of the Real Eſtates in <hi>England,</hi> to have given <hi>a Land Tax</hi> for the Bank,
+of double the Sum which was raiſed by it, if they could not otherwiſe have obtained it; for
+<hi>the falling the Intereſt</hi> of Mony to 3 <hi>l. per cent. per annum,</hi> to which Rate <hi>the Bank</hi> will
+reduce it, will unavoidably <hi>advance the Price of Land to above 30 Years Purchaſe,</hi>
+which will <hi>raiſe the Value</hi> of the Lands of <hi>England</hi> at leaſt 100 Millions, and thereby abun<g ref="char:EOLhyphen"/>dantly
+reimburſe <hi>the Nation</hi> all the Charges of <hi>the War,</hi> and will not only enable the <hi>Gentry</hi>
+to make better Proviſion for <hi>their Younger Children,</hi> but thoſe who now owe Money on
+their <hi>Lands,</hi> to pay off <hi>their Debts,</hi> by the Increaſe of the Value of <hi>their Eſtates.</hi>
+            </p>
+            <p>11. The <hi>Eaſe and Security</hi> of the great Receipts and Payments of Mony which are made
+by <hi>the Bank,</hi> (where Peoples Caſh is kept as it is at <hi>the Goldſmiths</hi>) together with the
+ſafe depoſiting of it, <hi>are ſuch advantages to recommend it,</hi> that <hi>they ought not to be paſt over</hi>
+without ſome Obſervation; <hi>eſpecially</hi> conſidering how much Mony has been loſt in <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+by the <hi>Goldſmiths</hi> and <hi>Scriveners</hi> Breaking, which in about 30 <hi>Years</hi> paſt, cannot
+amount to ſo little as betwixt <hi>Two and Three Millions,</hi> all which might have been pre<g ref="char:EOLhyphen"/>vented,
+had <hi>a Bank</hi> been ſooner Eſtabliſht.</p>
+            <p>Theſe are <hi>ſuch Services to the Nation</hi> in General, which have been (and will be) done
+by <hi>the Bank,</hi> as could not have been done without it, <hi>and ſuch Arguments as theſe</hi> ari<g ref="char:EOLhyphen"/>ſing
+from Fact, are better Demonſtrations and more Convincing of the Uſefulneſs of it,
+than meer <hi>Speculative Nations</hi> urged by its Oppoſers, can be to prejudice others againſt
+it; <hi>and therefore</hi> it would be <hi>an unaccourtable ſort of Policy,</hi> to endeavour to deprive <hi>the
+Nation</hi> of thoſe vaſt Advantages, which it now does and will receive by it.</p>
+            <p>Having given this <hi>ſhort Account of <hi>the Bank,</hi>
+               </hi> I ſhall conſider <hi>the Objections</hi> that have
+been made againſt it, and <hi>who they are</hi> that make them; in which I ſhall chiefly take notice
+of thoſe who would cloak <hi>the Oppoſition they make out of Private Interest,</hi> under ſome other
+Specious Pretences; <hi>amongſt which</hi> there are ſome who would be thought the <hi>moſt Zea<g ref="char:EOLhyphen"/>lous
+for the Government,</hi> who at firſt pretended to diſlike <hi>the Bank,</hi> only for fear it
+ſhould diſappoint <hi>Their Majeſties</hi> of the Supplies which were propoſed to be raiſed by it;
+<hi>But ſince</hi> the whole 1200000 <hi>l.</hi> has been ſo readily Subſcribed, <hi>their oppoſition has increaſed,</hi>
+and their being now ſo Zealous againſt it, can only proceed from their fear that they ſhall
+not have the like Opportunities as they have had, <hi>to impoſe on the Publick,</hi> by whoſe <hi>ne<g ref="char:EOLhyphen"/>ceſſities</hi>
+they have made <hi>ſo great Advantages;</hi> and they now threaten what they will do to
+deſtroy <hi>the Bank</hi> this Seſſion <hi>of Parliament;</hi> as if what paſt in the laſt, were to be
+undone in this.</p>
+            <p>There are others, who are for forcing a Currancy of <hi>Bills,</hi> or <hi>Tallys,</hi> and think
+they may paſs as well as <hi>Bank Bills; but they do not conſider,</hi> That its nothing makes
+them currant, but only <hi>becauſe all thoſe that deſire it, can go when they will, and fetch their
+Money for them;</hi> and to force any thing to paſs in Payment <hi>but Money,</hi> would ſoon end
+<hi>in Confuſion:</hi> For it cannot ſerve <hi>the Nations Occaſions</hi> at home, much leſs <hi>our foreign
+Negotiations</hi> with other Countries abroad; ſeeing all thoſe who take <hi>Bills of Exchange</hi>
+on <hi>England,</hi> are too wiſe to accept any ſuch ſort of Payment; but will be ſure to have
+them made payable <hi>in Sterling-Money</hi> in ſpecie, in like manner as the Bills which are
+now drawn <hi>on Spain,</hi> are made payable <hi>in old Money,</hi> as before the <hi>Pragmatica:</hi> which,
+together with the late Eſſay of <hi>Copper Money in</hi> Ireland, might be ſufficient to ſhew, that
+all ſuch Attempts will be ineffectual.</p>
+            <p>And beſides, the Confuſion it would make, the danger of their <hi>being counterfeited,</hi> is
+an Objection that cannot well be anſwered; and all that it would coſt to exchange them
+for Money, would be certainly paid by <hi>the Government:</hi> For it would be conſidered by
+<pb n="5" facs="tcp:36202:4"/>
+thoſe who ſell their Goods, <hi>in the Prices of them;</hi> and though but a ſmall Sum were paid
+for <hi>the Loſs</hi> of exchanging them for Money, by every one through whoſe hands they
+ſhould paſs, yet there might be <hi>more than the whole Value loſt thereby</hi> in leſs than one
+Years time: and the very Propoſing ſuch an Innovation, is of dangerous conſequence,
+and tends to deſtroy <hi>the Publick Credit.</hi> For if it ſhould be attempted to make any thing
+currant in Payment but <hi>ſpecie</hi> Money, <hi>no body would truſt the Government</hi> on any Loans
+for <hi>the future;</hi> and it would put a ſtop to <hi>the diſcounting Tallys, or Bills of Exchange,
+Lending Money on Pawns or Mortgages, or indeed to the giving any Credit,</hi> but upon the
+undoubted Aſſurance of receiving the Payment <hi>in Specie:</hi> for on all other ſorts of Pay<g ref="char:EOLhyphen"/>ment
+there will be <hi>a Loſs</hi> to exchange them for Money; and it would <hi>diſcourage</hi> our
+Friends, and <hi>encourage</hi> our Enemies; by proclaiming to the World, That we are not
+able to continue <hi>the War,</hi> and this would put an End to it: for we ſhould be forced to
+ſubmit to ſuch Terms, as <hi>the</hi> French <hi>King</hi> would think ſit to grant us.</p>
+            <p>
+               <hi>It's very obſervable,</hi> that all the ſeveral Companies of <hi>Oppreſſors</hi> are ſtrangely alarm'd,
+and exclaim at <hi>the Bank;</hi> and ſeem to have joined themſelves in a Confederacy againſt
+it, out of pure Zeal (as they pretend) <hi>for the Good of the Publick:</hi> whereas 'tis no<g ref="char:EOLhyphen"/>thing
+but <hi>their Private Intereſt,</hi> that has ſo nettled them to ſee their <hi>Craft and Trade
+of Oppreſſion</hi> endangered; for Extortion, Uſury, and Oppreſſion were never ſo attacqued,
+as they are like to be by <hi>the Bank:</hi> and 'tis that which has engaged them, to uſe <hi>all
+the Arts and Tricks they could invent,</hi> to blemiſh it: and amongſt the reſt, to make <hi>thoſe
+that owe Money</hi> uneaſie at it, great Sums have been called in; eſpecially if any have hap<g ref="char:EOLhyphen"/>ned
+to be due from thoſe, <hi>whoſe Publick Stations might make their Anger the more ſignifi<g ref="char:EOLhyphen"/>cant:</hi>
+pretending, that <hi>the Bank</hi> has m<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de <hi>ſuch a Scarcity of Money,</hi> that none is left,
+to be Lent <hi>on Land, or other Securities;</hi> though if it really did what they pretend, they
+would be far from being angry at it; ſcarcity of Money naturally producing <hi>a High
+Intereſt,</hi> and a <hi>difficulty</hi> for thoſe that want to be ſupplied with it: which are the beſt
+Arguments that can be uſed, to extort <hi>double the Price</hi> for <hi>Procuration and Continuation,</hi>
+Crimes that would eaſily be forgiven by thoſe men. But <hi>the Bank,</hi> on the contrary,
+makes <hi>a plenty of Money, and</hi> renders it <hi>eaſie,</hi> for thoſe that want to be ſupplied with it,
+<hi>at a moderate Intereſt,</hi> as well on <hi>Publick</hi> as <hi>Private Securities;</hi> without paying any thing,
+either <hi>to procure or continue it.</hi>
+            </p>
+            <p>There are others, who pretend to be againſt <hi>the Bank,</hi> leſt it ſhould hereafter join
+with <hi>the Prince,</hi> to make him <hi>Abſolute,</hi> and ſo render <hi>Parliaments</hi> uſeleſs. But
+tho' that may at firſt ſeem <hi>frightful,</hi> yet when it's conſidered, there will not appear any
+cauſe for ſuch Fear as is pretended; and its morally impoſſible to be attempted, the con<g ref="char:EOLhyphen"/>cerned
+in <hi>the Bank</hi> being reſtrained by <hi>Act of Parliament,</hi> from advancing any
+Money to <hi>the Crown,</hi> but upon ſuch Funds only on which there is a Credit of Loan
+by <hi>Parliament <hi>under the Penalty</hi>
+               </hi> of each Perſon's forfeiting <hi>treble the value of all the
+Money Lent;</hi> the 1/5 to the Informer, and the other 4/5 cannot be pardoned by the
+<hi>King,</hi> but are to be diſpoſed of by <hi>Parliament:</hi> nor can it be the Intereſt of <hi>the
+Bank,</hi> to make <hi>any King abſolute;</hi> ſeeing they have <hi>no Security</hi> for their Fund, nor for the
+Money that is lodged <hi>in the Bank, <hi>but the Protection of</hi> the Laws:</hi> For if they
+ſhould contribute to make <hi>any King abſolute,</hi> they canhave no aſſurance that he
+would not, (nay they may be confident that he would) <hi>ſeize on their Fund and their
+Money by violence;</hi> leſt that they who contributed to make him Abſolute, ſhould
+afterwards endeavour to reduce him to a conformity with <hi>the Laws of the Land.</hi>
+And certainly there is <hi>more danger of ſuch a Deſign</hi> from 12 or 14 <hi>Goldſmiths,</hi> who were
+uſed to have <hi>moſt of the running Caſh of the Kingdom:</hi> Or from <hi>other Corporations,</hi> who de<g ref="char:EOLhyphen"/>pend
+wholly <hi>on Prerogative,</hi> and are under no manner of Reſtraint. Nor could ſuch a De<g ref="char:EOLhyphen"/>ſign
+ever be attempted by <hi>the Bank;</hi> for <hi>the whole Court of Directors,</hi> which conſiſts of
+26 Perſons, muſt be made privy to it; and ſome of them to be ſure <hi>would be against it:</hi>
+and it could not be kept <hi>ſecret,</hi> but would ſoon be <hi>divulged;</hi> and any 9 Members of
+the Corporation may call <hi>a General Court,</hi> who would infallibly turn out thoſe that
+ſhould encline to favour ſuch a Deſign: For 'tis not to be ſuppoſed, that ſuch a
+Body of men ſhould agree <hi>to ruin themſelves and their Poſterity,</hi> by loſing their
+Eſtates and their Liberties, when 'tis in their power to preſerve them. And ſeeing
+the <hi>Triennial Bill</hi> is paſt, <hi>a new Parliament</hi> muſt be choſen, and Sit once in 3 Years<g ref="char:punc">▪</g>
+and during the War, there is no danger but they will Meet oftner.</p>
+            <p>
+               <pb n="6" facs="tcp:36202:5"/>
+There are others who are againſt <hi>the Bank,</hi> pretending, <hi>the Fund from which its
+Revenue ariſes is prejudicial to the Nation:</hi> but if that were an Objection, it might as
+well be urged againſt <hi>the Annuity for Lives, payable out of the ſame Fund, and ſetled by
+the ſame <hi>Act of Parliament:</hi>
+               </hi> But as this is not made an Objection againſt the one,
+no more ought it to be againſt the other; for <hi>the Bank</hi> would be the ſame, out of
+whatſoever Fund the 100000 <hi>l. per an.</hi> were payable; and if it were <hi>ill for the King<g ref="char:EOLhyphen"/>dom,</hi>
+the <hi>goodneſs of the Fund</hi> would not make it <hi>the better;</hi> nor if the Fund were
+<hi>a bad one,</hi> would that make <hi>the Bank <hi>the worſe.</hi>
+               </hi>
+            </p>
+            <p>There are others, who are againſt <hi>the Bank,</hi> becauſe they pretend the concerned
+have <hi>too good a Bargain;</hi> though if it were really ſo, the Nation pays but 100000 <hi>l.
+per an.</hi> for 1200000, which is no more than their Agreement; and 'tis <hi>much leſs than
+must have been paid for that Money,</hi> if it had been to be raiſed in any other manner:
+But if there were any weight <hi>in this Objection,</hi> it might be proper to be conſidered
+11 <hi>Years hence,</hi> when their Term expires, in caſe they ſhould endeavour a longer con<g ref="char:EOLhyphen"/>tinuance.
+It never was thought to be <hi>an Objection</hi> againſt thoſe who have <hi>the Fee-Farm
+Rents,</hi> that they have had <hi>too good a Peniworth,</hi> though they now Sell at 21, 22,
+and 23 Years Purchaſe: And though great part of them were paid for <hi>by Debentures,
+and old Debts due from the Crown,</hi> which were bought for little or nothing: nor is
+it objected, that it was a thin Houſe when that Bill paſt, though upon the Diviſion
+there were but 42 Members preſent.</p>
+            <p>Some find fault with <hi>the Bank,</hi> becauſe they have <hi>not taken in the whole 1200000 l.</hi>
+which was Subſcribed; for they have called in but for 720000 <hi>l.</hi> which is more than
+they have now occaſion for: But however, they have paid into the Exchequer <hi>the whole</hi>
+1200000 <hi>l. before the time appointed</hi> by the <hi>Act of Parliament;</hi> and the <hi>leſs Money</hi> they
+have taken in to do it with, ſo much <hi>the more</hi> they have ſerved <hi>the Publick:</hi> For the reſt
+is left to circulate in Trade, to be lent on Land, or otherwiſe to be diſpoſed of for the
+Nations Service; and its better for <hi>the Bank,</hi> as well as <hi>the Publick,</hi> to have 480000 <hi>l.
+in the Subſcribers hands, ready to be called for</hi> as they want it, <hi>than to have had it lie
+uſeleſs by them:</hi> And it's very obſervable, that few of thoſe who make this Obje<g ref="char:EOLhyphen"/>ction,
+either do or would truſt <hi>the Bank,</hi> though the whole 1200000 <hi>l.</hi> were actually
+paid in by the Subſcribers, as they would pretend to have it. And tho' they are ſo <hi>care<g ref="char:EOLhyphen"/>ful,</hi>
+leſt <hi>the Bank</hi> ſhould not have <hi>Credit;</hi> yet at the ſame time they pretend to fear its
+<hi>Credit</hi> will ſo far prevail, that it will <hi>engroſs</hi> all the <hi>Money</hi> in the <hi>Nation. So that,</hi> it ſeems,
+<hi>as if they who would have 480000 l. called in, wanted a pretence to find fault with <hi>the Bank,</hi>
+               </hi>
+for having thereby made Money ſcarce, <hi>by calling in the Remainder of the whole Subſcri<g ref="char:EOLhyphen"/>ptions,
+when they did not want it;</hi> unleſs they would ſhew by ſome new-diſcovered Rules
+in <hi>Arithmetick,</hi> that the <hi>calling in 480000 l.</hi> more, would make <hi>the Bank</hi> have the leſs
+<hi>Money</hi> lodged in it.</p>
+            <p>'Tis pretended by others, that <hi>the Bank <hi>is prejudicial to Trade,</hi>
+               </hi> becauſe there are ſome
+under ſuch unhappy Circumſtances, that <hi>the Bank</hi> cannot relieve them in their broken
+Fortunes, and who have been ſinking before <hi>the Bank</hi> was thought of. Indeed they
+who have not Credit <hi>to borrow Money at Intereſt,</hi> nor <hi>to draw by Exchange,</hi> and who have
+neither <hi>Tallys, Bills of Exchange,</hi> nor <hi>good Bills for Debt to diſcount, Goods to Pawn,</hi> or
+<hi>Land,</hi> or <hi>Houſes to Mortgage,</hi> muſt be allowed to be in no very good condition, and muſt
+continue to pay as exorbitant Allowances for Money to ſupply <hi>their Neceſſities,</hi> as they
+uſed to do before <hi>the Bank</hi> was eſtabliſhed. What has been obſerved of <hi>Diſcounting Fo<g ref="char:EOLhyphen"/>reign
+Bills of Exchange</hi> at 3 <hi>per cent. per annum, In-land Bills, and Notes for Debts,</hi>
+at 4 ½ <hi>per cent. per an. Lending Money on Pawns</hi> at 5 <hi>per cent. per an. Exchanging Tallys,</hi> and
+<hi>lowering Intereſt</hi> of Money, its ſuppoſed is ſufficient to anſwer <hi>this Objection.</hi>
+            </p>
+            <p>'Tis alledged by ſome, that <hi>the Bank</hi> will ingroſs all manner of Trades.—But this
+is an Objection (like many others, which are) made againſt it by thoſe who <hi>do not under<g ref="char:EOLhyphen"/>ſtand
+its Conſtitution;</hi> for, if any Perſon Trades on Account of <hi>the Bank</hi> in any other
+thing than <hi>taking Pawns,</hi> or in <hi>Bills of Exchange,</hi> or <hi>Bullion,</hi> or conſents that any other
+ſhould Trade, ſuch Perſon <hi>ſo Trading or Conſenting</hi> to ſuch Trade, incurs by <hi>the Act of
+Parliament</hi> a Forfeiture of <hi>Treble the Value</hi> of all that is Traded for.</p>
+            <p>The <hi>Goldſmiths</hi> have been guilty of <hi>Engroſſing most Commodities</hi> themſelves, and they
+have alſo been great <hi>Merchants and Traders.</hi>—And whereas they pretend that <hi>the
+<pb n="7" facs="tcp:36202:5"/>
+Bank</hi> hath bought up all the <hi>Silver,</hi> upon Enquiry it appears, that there hath not been
+12000 <hi>l.</hi> worth bought by <hi>the Bank,</hi> and the greateſt part of that was Pieces of Eight,
+and the reſt <hi>Bars</hi> and <hi>Piny Silver,</hi> which came from <hi>Spain;</hi> though ſome particular <hi>Re<g ref="char:EOLhyphen"/>finers</hi>
+and <hi>Goldſmiths</hi> have ſince that Ship'd off more than double that Value in Bars of
+<hi>Engliſh Melting,</hi> and have likewiſe ſold much greater parcels to others which have been
+Exported.—And it may be a matter well worth Enquiry, where thoſe Mines are
+which have produc'd that Silver?</p>
+            <p>And though it be made ſuch a Crime for <hi>the Bank</hi> to be concerned in <hi>the Publick
+Remittances,</hi> it is no more than was done by a <hi>Goldſmith</hi> before <hi>the Bank</hi> undertook
+it; nor is it look'd on as a Fault in the <hi>Goldſmiths</hi> to deal by Exchange, ſeeing ſome
+of them do now draw or remit Mony almoſt every Poſt.</p>
+            <p>And ſince the Nation has ſuffered ſo much by the <hi>Goldſmiths</hi> Monopolizing Goods,
+and Trading with other Mens Stocks, it may ſeem highly Reaſonable, That as <hi>the
+Bank</hi> is reſtrain'd from Trade for fear of thoſe miſchiefs which the <hi>Goldſmiths</hi> have
+practiſed; ſo the <hi>Goldſmiths</hi> in like manner ſhould be limited to the Selling Plate and
+Jewels, which was their antient and proper Trade.</p>
+            <p>As to the Pretence of <hi>the Bank</hi> ſetting a Price upon <hi>Guineas,</hi> and having engroſſed
+the greateſt part of all that are in the Nation; 'tis anſwer'd, <hi>The Bank</hi> has always
+received and paid <hi>Guineas,</hi> at a Peny or two Pence a piece at leaſt, under the Price which
+the <hi>Goldſmiths</hi> have put upon them; and has been ſo far from Buying up any, that they
+have only received ſuch as have been brought them in Payment; and have conſtantly
+paid them away every Week, at the ſame Price they have received them: So that if they
+make any benefit by the advance of the Price of <hi>Guineas,</hi> 'tis chiefly on thoſe which were
+received at the taking <hi>the Subſcriptions;</hi> which cannot come to any ſuch quantity as is
+pretended: And 'tis a matter wholly owing to ſome, or all of theſe Cauſes:</p>
+            <p>1. To the <hi>Goldſmiths,</hi> who have raiſed the Price of them: Or,</p>
+            <p>2. To the badneſs of our Silver-Coin, which is diminiſhed every day: Or,</p>
+            <p>3. To thoſe great quantities which have been exported into Foreign Parts.</p>
+            <p>There are others, who make a mighty Complaint againſt <hi>the Bank,</hi> becauſe 2 <hi>d. per</hi>
+Day is allowed on <hi>Bank-Bills,</hi> and the Money which was uſed to be lodged in their hands
+for nothing, and made uſe of by themſelves, is now paid into <hi>the Bank</hi> by the Own<g ref="char:EOLhyphen"/>ers,
+but they, its ſuppoſed, will not find fault with receiving 2 <hi>d. per</hi> Day, for that Money,
+for which before they had nothing; and ſo one may be ſet againſt t'other.</p>
+            <p>
+               <hi>'Tis pretended,</hi> the allowing 2 <hi>d. per</hi> Day, hinders ſome from Purchaſing, or Lending Mo<g ref="char:EOLhyphen"/>ney
+on Mortgages; and makes others, who are Traders, and owe Mony, bad Paymaſters.</p>
+            <p>But it may well be ſuppoſed, there are none who intend <hi>to Purchaſe,</hi> or <hi>Lend Money on
+Mortgages,</hi> who will leave their Money in <hi>the Bank</hi> at 3 <hi>per cent. per an.</hi> when they can
+have a <hi>Purchaſe</hi> to their minds, or <hi>a good Security</hi> at 5 <hi>per cent. per an.</hi> and there are few
+who would not leave their <hi>Money lying dead,</hi> rather than lay it out on the <hi>Purchaſe</hi> of an
+<hi>Eſtate</hi> they do not like, or lend it on a bad <hi>Security.</hi>
+            </p>
+            <p>And as for its making men <hi>bad Paymasters;</hi> they muſt conſider their Credit or Intereſt
+but little, who will delay paying their Debts, for the getting the 2 <hi>d. per</hi> day, <hi>per 100 l.</hi>
+which is allowed on <hi>Bank-Bills;</hi> for in their future Dealings they would pay a much dearer
+Intereſt.—The Money which is lodged in <hi>the Bank,</hi> is only the <hi>Mony</hi> which can be
+ſpar'd, and was wont to be left with <hi>the Goldſmiths:</hi> and it's ſtrange, that 3 <hi>per cent. per an.</hi>
+which is allowed on <hi>Bank Bills,</hi> ſhould do <hi>all this Miſchief;</hi> and that the great Advantages
+which have been made by <hi>the Publick Funds,</hi> ſhould never be made an Objection.</p>
+            <p>But the plain truth of the matter is, that the <hi>Goldſmiths</hi> are angry at the <hi>Banks</hi>
+allowing 2 <hi>d.</hi> a Day <hi>per Cent.</hi> becauſe that by this means the Money is drawn out of
+their hands the faſter, and paid into <hi>the Bank,</hi> for <hi>Bank-Bills.</hi>
+            </p>
+            <p>And if the allowing 2 <hi>d. per</hi> Day on <hi>Bank Bills,</hi> be lookt on to be <hi>ſuch a Crime,</hi> its very
+probable the concerned in <hi>the Bank</hi> will be willing in time to remove the Objection;
+ſeeing it will eaſe them of the Charge of 36000 <hi>l. per an.</hi> which the Intereſt amounts to,
+and which they have given <hi>the Nation</hi> out of their Fund, for that Money, for which the
+Owners uſed to have nothing.</p>
+            <p>Notwithſtanding all theſe Objections, which are made againſt <hi>the Bank,</hi> there are
+ſome now, who in oppoſition to it, talk of nothing leſs than Setling <hi>a New One,</hi> with 4 <hi>d,</hi>
+               <pb n="8" facs="tcp:36202:6"/>
+a day <hi>per cent.</hi> Intereſt, which is double as much as is now paid by <hi>the Bank:</hi> nay,
+others are for Setting up <hi>a Bank <hi>in every City,</hi>
+               </hi> or <hi>in every Market-Town:</hi> Which ſhews
+after all the Cavils againſt <hi>the Bank,</hi> that <hi>a Bank</hi> is good for <hi>the Nation in general,</hi>
+and that the <hi>greatest Objection</hi> againſt <hi>the Bank of <hi>England,</hi>
+               </hi> is, that they who find fault
+with it, are not concerned in it; for many of thoſe who <hi>Clamour</hi> againſt it, do it only
+in hopes of <hi>coming in the Cheaper.</hi>
+            </p>
+            <p>But <hi>the Honour and Iuſtice of the whole Nation</hi> (on whoſe Credit and Autho<g ref="char:EOLhyphen"/>rity
+the Subſcribers are Eſtabliſht to be <hi>the Bank</hi> of <hi>England</hi> for 11 Years) is too much
+concerned, to admit a ſuppoſal, that any ſuch Deſigns <hi>ſhould receive countenance or
+encouragement:</hi> For what paſt in the <hi>Laſt Seſſion of <hi>Parliament,</hi>
+               </hi> and their refuſing
+to admit any other Lives to be added to the <hi>Annuities,</hi> leſt it ſhould be thought <hi>to leſſen
+the Security</hi> on which the Money was contributed; (though they were not intended to
+take place 'till after the Lives in being were extinct) ſhews the great care <hi>of the Ho<g ref="char:EOLhyphen"/>nourable
+Houſe of Commons,</hi> to preſerve the Publick Credit, and to avoid any <hi>the leaſt Occa<g ref="char:EOLhyphen"/>ſion</hi>
+which might make it ſuſpected; and gives the whole Nation <hi>a ſufficient Aſſu<g ref="char:EOLhyphen"/>rance,</hi>
+that they who are <hi>the Preſervers of the Peoples Rights and Properties,</hi> will never
+ſuffer any thing to be attempted in that AUGUST ASSEMBLY, that may <hi>ſeem but to
+weaken the Security, or leſſen the Encouragements which they have given the Subſcribers to
+<hi>the Bank,</hi>
+               </hi> and which <hi>they themſelves have Eſtabliſht by ſo ſolemn and inviolable a San<g ref="char:EOLhyphen"/>ction:</hi>
+And all Inſinuations to the contrary (though under never ſuch ſpecious Pretences)
+<hi>are of dangerous Conſequence to the Government,</hi> tending to raiſe Doubts and Scruples
+in the minds of the People, and to leſſen the Publick Credit: For <hi>if the Parliamentary
+Securities,</hi> on which all Men, both Natives and Foreigners, firmly relying, have hitherto
+<hi>ſo freely contributed their Fortunes,</hi> for carrying on the War, were now made precarious
+and uncertain, <hi>no body could truſt them for the future:</hi> and during the War, the Goverment
+cannot poſſibly ſubſiſt without Credit.</p>
+            <p>And beſides, the ſeeming Injuſtice which it would be to thoſe who have Subſcribed,
+and contributed their Money upon the Encouragement given by <hi>the Act,</hi> of their being
+<hi>the Bank of <hi>England</hi>
+               </hi> for eleven years, to have another eſtabliſht before thoſe eleven
+years are expired, for which <hi>this Bank</hi> is ſetled; it would be ſo far from being
+like the having of ſeveral Shops to go to, to be better uſed; (as is by ſome pretended)
+that it would be a means to hinder either from being ſerviceable in the ſupplying <hi>the
+publick or private mens occaſions:</hi> And <hi>the Nation</hi> muſt pay the dearer for Money; for
+<hi>one being in oppoſition to the other,</hi> there would be a ſort of Civil War between them;
+and <hi>the Bank</hi> being <hi>a Bank of Credit,</hi> neither of them, by their jealouſy of each other,
+would venture to extend its Credit; but would Bury the Money of the Nation, inſtead
+of increaſing and quickning its Circulation, as <hi>the Bank</hi> of <hi>England</hi> does, and will do.</p>
+            <p>To conclude, the <hi>Inſtances</hi> which have been given, (in the foregoing <hi>Account</hi>) of the
+<hi>
+                  <g ref="char:V">Ʋ</g>ſefulneſs</hi> of <hi>the Bank,</hi> may, it's ſuppoſed, ſuffice, to <hi>convince</hi> ſuch as were <hi>preju<g ref="char:EOLhyphen"/>diced</hi>
+againſt it; upon the <hi>Mirepreſentations</hi> which were ſo induſtriouſly made, by thoſe
+who appeared the moſt barefaced and violent in <hi>oppoſing</hi> it. But it may perhaps be ob<g ref="char:EOLhyphen"/>jected,
+That <hi>the Bank</hi> is ſo far from being an <hi>Advantage</hi> to all <hi>Trades,</hi> that 'tis <hi>Prejudi<g ref="char:EOLhyphen"/>cial</hi>
+to ſome: for it ſeems to be admitted, That <hi>the Bank</hi> will be <hi>injurious</hi> to a dozen
+or 14 <hi>Banking Goldſmiths,</hi> and to ſome <hi>Scriveners, <g ref="char:V">Ʋ</g>ſurers,</hi> and <hi>Pawn-Brokers;</hi> becauſe
+it will hinder them from Exacting ſuch <hi>Oppreſſive Extortion,</hi> as ſome of them have done
+formerly; and it will quite <hi>ruin</hi> the whole Trade of <hi>Tally-Jobbers.</hi>
+            </p>
+            <p>Now if the Clamour of a few, (whoſe Trade hath been <hi>to make Merchandize of the Na<g ref="char:EOLhyphen"/>tion,
+and to Enrich themſelves by the Neceſſities of others</hi>) ſhall not only prevail againſt the
+Benefit of a Community legally eſtabliſht, but even of the Kingdom in general, and the
+Credit of a <hi>Parliament,</hi> then the Enemies of <hi>the Bank</hi> may hope to ſubvert it: But
+until the Publick Good be poſtpon'd to Private Intereſt, and a ſmall number of Oppreſ<g ref="char:EOLhyphen"/>ſors
+be too hard for the Nobility, Gentry, and Traders of <hi>England</hi> in general; it will
+and muſt be preſerved and maintained, becauſe of its great Uſe to the whole Realm; and
+the Benefits which already accrue by it in its Infancy, are a good Earneſt of thoſe greater
+Advantages, which the Nation muſt receive from its future Progreſs.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: Printed for <hi>John Whitlock</hi> near <hi>Stationers Hall.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
